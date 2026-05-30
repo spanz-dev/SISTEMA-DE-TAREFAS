@@ -1,2 +1,2 @@
 # SISTEMA-DE-TAREFAS
-Python | Streamlit | Sqlite3 | Pandas
+gerenciador de tarefas | Python | Streamlit | Sqlite | Pandas |
